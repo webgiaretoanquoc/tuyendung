@@ -1,0 +1,751 @@
+Uri: http://nld.mediacdn.vn/thumb_w/540/2017/ono-1511830925372.jpg
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\thumb_w\540\2017\ono-1511830925372-1.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css?family=Nunito+Sans:regular%2C700%2Cregular%2Cregular%2Cregular&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v12/pe03MImSLYBIv1o4X1M8cc8GBs5tU1Q.ttf
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\s\nunitosans\v12\pe03MImSLYBIv1o4X1M8cc8GBs5tU1Q-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v12/pe0qMImSLYBIv1o4X1M8cce9I94.ttf
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\s\nunitosans\v12\pe0qMImSLYBIv1o4X1M8cce9I94-1.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftuyendung.webtudong8giay.com%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\login-17.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftuyendung.webtudong8giay.com%252Fbackend-developer%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\login-27.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftuyendung.webtudong8giay.com%252Fban-hang-partime%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\login-24.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftuyendung.webtudong8giay.com%252Fban-hang-partime-copy%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\login-23.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftuyendung.webtudong8giay.com%252Fchoi-voi-vi-mat-viec-cuoi-nam%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\login-33.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftuyendung.webtudong8giay.com%252Fgioi-thieu%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\login-18.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftuyendung.webtudong8giay.com%252Flien-he%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\login-21.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftuyendung.webtudong8giay.com%252Fnhan-vien-kinh-doanh%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\login-30.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftuyendung.webtudong8giay.com%252Fnhan-vien-kinh-doanh-copy%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\login-29.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftuyendung.webtudong8giay.com%252Fnhan-vien-tele-marketing%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\login-28.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftuyendung.webtudong8giay.com%252Fnhan-vien-tu-van-khach-hang%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\login-25.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftuyendung.webtudong8giay.com%252Fnhan-vien-tu-van-khach-hang-copy%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\login-19.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftuyendung.webtudong8giay.com%252Fquan-ly-vung%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\login-26.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftuyendung.webtudong8giay.com%252Fquan-ly-vung-copy%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\login-22.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftuyendung.webtudong8giay.com%252Ftuyen-nhan-vien-bao-ve-tai-binh-thanh-cac-ky-nang-nghiep-vu-duoc-dao-tao%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\login-31.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftuyendung.webtudong8giay.com%252Ftuyen-nhan-vien-bao-ve-tai-quan-thu-duc-tim-hieu-ve-nghe-bao-ve%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\login-20.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftuyendung.webtudong8giay.com%252Fviec-lam-bao-ve-viec-lam-bao-ve-luong-cao-viec-lam-bao-ve-bao-an-o%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\login-32.php
+Content Type: application/xhtml+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\font-awesome\4.7.0\css\font-awesome.min-2.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.woff
+Content Type: font/woff
+
+Uri: https://tuyendung.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\index-1.htm
+Content Type: text/html
+
+Uri: https://tuyendung.webtudong8giay.com/backend-developer/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\backend-developer\index-1.htm
+Content Type: text/html
+
+Uri: https://tuyendung.webtudong8giay.com/backend-developer/feed/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\backend-developer\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://tuyendung.webtudong8giay.com/ban-hang-partime-copy/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\ban-hang-partime-copy\index-1.htm
+Content Type: text/html
+
+Uri: https://tuyendung.webtudong8giay.com/ban-hang-partime-copy/feed/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\ban-hang-partime-copy\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://tuyendung.webtudong8giay.com/ban-hang-partime/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\ban-hang-partime\index-1.htm
+Content Type: text/html
+
+Uri: https://tuyendung.webtudong8giay.com/ban-hang-partime/feed/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\ban-hang-partime\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://tuyendung.webtudong8giay.com/category/tin-tuc/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\category\tin-tuc\index-1.htm
+Content Type: text/html
+
+Uri: https://tuyendung.webtudong8giay.com/category/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\category\tin-tuc\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://tuyendung.webtudong8giay.com/category/viec-lam/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\category\viec-lam\index-1.htm
+Content Type: text/html
+
+Uri: https://tuyendung.webtudong8giay.com/category/viec-lam/binh-duong/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\category\viec-lam\binh-duong\index-1.htm
+Content Type: text/html
+
+Uri: https://tuyendung.webtudong8giay.com/category/viec-lam/binh-duong/feed/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\category\viec-lam\binh-duong\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://tuyendung.webtudong8giay.com/category/viec-lam/can-tho/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\category\viec-lam\can-tho\index-1.htm
+Content Type: text/html
+
+Uri: https://tuyendung.webtudong8giay.com/category/viec-lam/can-tho/feed/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\category\viec-lam\can-tho\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://tuyendung.webtudong8giay.com/category/viec-lam/dong-nai/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\category\viec-lam\dong-nai\index-1.htm
+Content Type: text/html
+
+Uri: https://tuyendung.webtudong8giay.com/category/viec-lam/dong-nai/feed/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\category\viec-lam\dong-nai\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://tuyendung.webtudong8giay.com/category/viec-lam/feed/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\category\viec-lam\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://tuyendung.webtudong8giay.com/category/viec-lam/tp-ho-chi-minh/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\category\viec-lam\tp-ho-chi-minh\index-1.htm
+Content Type: text/html
+
+Uri: https://tuyendung.webtudong8giay.com/category/viec-lam/tp-ho-chi-minh/feed/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\category\viec-lam\tp-ho-chi-minh\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://tuyendung.webtudong8giay.com/choi-voi-vi-mat-viec-cuoi-nam/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\choi-voi-vi-mat-viec-cuoi-nam\index-1.htm
+Content Type: text/html
+
+Uri: https://tuyendung.webtudong8giay.com/choi-voi-vi-mat-viec-cuoi-nam/feed/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\choi-voi-vi-mat-viec-cuoi-nam\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://tuyendung.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\comments\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://tuyendung.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://tuyendung.webtudong8giay.com/gioi-thieu/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\gioi-thieu\index-1.htm
+Content Type: text/html
+
+Uri: https://tuyendung.webtudong8giay.com/lien-he/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\lien-he\index-1.htm
+Content Type: text/html
+
+Uri: https://tuyendung.webtudong8giay.com/nhan-vien-kinh-doanh-copy/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\nhan-vien-kinh-doanh-copy\index-1.htm
+Content Type: text/html
+
+Uri: https://tuyendung.webtudong8giay.com/nhan-vien-kinh-doanh-copy/feed/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\nhan-vien-kinh-doanh-copy\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://tuyendung.webtudong8giay.com/nhan-vien-kinh-doanh/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\nhan-vien-kinh-doanh\index-1.htm
+Content Type: text/html
+
+Uri: https://tuyendung.webtudong8giay.com/nhan-vien-kinh-doanh/feed/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\nhan-vien-kinh-doanh\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://tuyendung.webtudong8giay.com/nhan-vien-tele-marketing/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\nhan-vien-tele-marketing\index-1.htm
+Content Type: text/html
+
+Uri: https://tuyendung.webtudong8giay.com/nhan-vien-tele-marketing/feed/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\nhan-vien-tele-marketing\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://tuyendung.webtudong8giay.com/nhan-vien-tu-van-khach-hang-copy/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\nhan-vien-tu-van-khach-hang-copy\index-1.htm
+Content Type: text/html
+
+Uri: https://tuyendung.webtudong8giay.com/nhan-vien-tu-van-khach-hang-copy/feed/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\nhan-vien-tu-van-khach-hang-copy\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://tuyendung.webtudong8giay.com/nhan-vien-tu-van-khach-hang/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\nhan-vien-tu-van-khach-hang\index-1.htm
+Content Type: text/html
+
+Uri: https://tuyendung.webtudong8giay.com/nhan-vien-tu-van-khach-hang/feed/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\nhan-vien-tu-van-khach-hang\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://tuyendung.webtudong8giay.com/quan-ly-vung-copy/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\quan-ly-vung-copy\index-1.htm
+Content Type: text/html
+
+Uri: https://tuyendung.webtudong8giay.com/quan-ly-vung-copy/feed/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\quan-ly-vung-copy\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://tuyendung.webtudong8giay.com/quan-ly-vung/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\quan-ly-vung\index-1.htm
+Content Type: text/html
+
+Uri: https://tuyendung.webtudong8giay.com/quan-ly-vung/feed/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\quan-ly-vung\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://tuyendung.webtudong8giay.com/trang-chu/feed/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\trang-chu\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://tuyendung.webtudong8giay.com/tuyen-nhan-vien-bao-ve-tai-binh-thanh-cac-ky-nang-nghiep-vu-duoc-dao-tao/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\tuyen-nhan-vien-bao-ve-tai-binh-thanh-cac-ky-nang-nghiep-vu-duoc-dao-tao\index-1.htm
+Content Type: text/html
+
+Uri: https://tuyendung.webtudong8giay.com/tuyen-nhan-vien-bao-ve-tai-binh-thanh-cac-ky-nang-nghiep-vu-duoc-dao-tao/feed/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\tuyen-nhan-vien-bao-ve-tai-binh-thanh-cac-ky-nang-nghiep-vu-duoc-dao-tao\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://tuyendung.webtudong8giay.com/tuyen-nhan-vien-bao-ve-tai-quan-thu-duc-tim-hieu-ve-nghe-bao-ve/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\tuyen-nhan-vien-bao-ve-tai-quan-thu-duc-tim-hieu-ve-nghe-bao-ve\index-1.htm
+Content Type: text/html
+
+Uri: https://tuyendung.webtudong8giay.com/tuyen-nhan-vien-bao-ve-tai-quan-thu-duc-tim-hieu-ve-nghe-bao-ve/feed/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\tuyen-nhan-vien-bao-ve-tai-quan-thu-duc-tim-hieu-ve-nghe-bao-ve\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://tuyendung.webtudong8giay.com/viec-lam-bao-ve-viec-lam-bao-ve-luong-cao-viec-lam-bao-ve-bao-an-o/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\viec-lam-bao-ve-viec-lam-bao-ve-luong-cao-viec-lam-bao-ve-bao-an-o\index-1.htm
+Content Type: text/html
+
+Uri: https://tuyendung.webtudong8giay.com/viec-lam-bao-ve-viec-lam-bao-ve-luong-cao-viec-lam-bao-ve-bao-an-o/feed/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\viec-lam-bao-ve-viec-lam-bao-ve-luong-cao-viec-lam-bao-ve-bao-an-o\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles-1.css
+Content Type: text/css
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index-1.js
+Content Type: application/javascript
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index-1.js
+Content Type: application/javascript
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/plugins/related-posts-by-taxonomy/includes/assets/css/styles.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\plugins\related-posts-by-taxonomy\includes\assets\css\styles-2.css
+Content Type: text/css
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\themes\flatsome-child\style-1.css
+Content Type: text/css
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons-1.css
+Content Type: text/css
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome-1.css
+Content Type: text/css
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons-1.svg
+Content Type: image/svg+xml
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons-1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons-1.woff
+Content Type: application/x-font-woff
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons-1.woff2
+Content Type: 
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x-1.png
+Content Type: image/png
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline-1.png
+Content Type: image/png
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome-1.js
+Content Type: application/javascript
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/uploads/2019/06/89-chotcd-1511188576780-300x199.jpg
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\uploads\2019\06\89-chotcd-1511188576780-300x199-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/uploads/2019/06/89-chotcd-1511188576780.jpg
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\uploads\2019\06\89-chotcd-1511188576780-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/uploads/2019/06/congnhan17918452-300x222.jpg
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\uploads\2019\06\congnhan17918452-300x222-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/uploads/2019/06/congnhan17918452.jpg
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\uploads\2019\06\congnhan17918452-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/uploads/2019/06/cropped-logo-bao-ve-180x180.jpg
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\uploads\2019\06\cropped-logo-bao-ve-180x180-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/uploads/2019/06/cropped-logo-bao-ve-192x192.jpg
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\uploads\2019\06\cropped-logo-bao-ve-192x192-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/uploads/2019/06/cropped-logo-bao-ve-32x32.jpg
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\uploads\2019\06\cropped-logo-bao-ve-32x32-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/uploads/2019/06/dot.jpg
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\uploads\2019\06\dot-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/uploads/2019/06/learning-bg-1.png
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\uploads\2019\06\learning-bg-1-1.png
+Content Type: image/png
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/uploads/2019/06/nhiem-vu-nhan-vien-bao-ve-tuan-tra-canh-gac-3-300x225.jpg
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\uploads\2019\06\nhiem-vu-nhan-vien-bao-ve-tuan-tra-canh-gac-3-300x225-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/uploads/2019/06/nhiem-vu-nhan-vien-bao-ve-tuan-tra-canh-gac-3.jpg
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\uploads\2019\06\nhiem-vu-nhan-vien-bao-ve-tuan-tra-canh-gac-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/uploads/2019/06/ono-1511830925372-300x200.jpg
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\uploads\2019\06\ono-1511830925372-300x200-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/uploads/2019/06/ono-1511830925372.jpg
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\uploads\2019\06\ono-1511830925372-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/uploads/2019/12/BAN-HANG-300x169.jpg
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\uploads\2019\12\BAN-HANG-300x169-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/uploads/2019/12/BAN-HANG-768x432.jpg
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\uploads\2019\12\BAN-HANG-768x432-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/uploads/2019/12/BAN-HANG.jpg
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\uploads\2019\12\BAN-HANG-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/uploads/2019/12/banner-chung_1483986933-300x169.jpg
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\uploads\2019\12\banner-chung_1483986933-300x169-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/uploads/2019/12/banner-chung_1483986933.jpg
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\uploads\2019\12\banner-chung_1483986933-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/uploads/2019/12/logo-tanca-white.png
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\uploads\2019\12\logo-tanca-white-1.png
+Content Type: image/png
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/uploads/2019/12/moi-truong-cua-tanca-1024x643.png
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\uploads\2019\12\moi-truong-cua-tanca-1024x643-1.png
+Content Type: image/png
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/uploads/2019/12/moi-truong-cua-tanca-300x188.png
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\uploads\2019\12\moi-truong-cua-tanca-300x188-1.png
+Content Type: image/png
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/uploads/2019/12/moi-truong-cua-tanca-768x482.png
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\uploads\2019\12\moi-truong-cua-tanca-768x482-1.png
+Content Type: image/png
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/uploads/2019/12/moi-truong-cua-tanca.png
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\uploads\2019\12\moi-truong-cua-tanca-1.png
+Content Type: image/png
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/uploads/2019/12/PHAN-CUNG-300x169.jpg
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\uploads\2019\12\PHAN-CUNG-300x169-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/uploads/2019/12/PHAN-CUNG-768x432.jpg
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\uploads\2019\12\PHAN-CUNG-768x432-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/uploads/2019/12/PHAN-CUNG.jpg
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\uploads\2019\12\PHAN-CUNG-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/uploads/2019/12/tuyen-so-luong-lon-content-marketing-lam-viec-tai-du-an-ischoolvietnam-300x207.jpg
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\uploads\2019\12\tuyen-so-luong-lon-content-marketing-lam-viec-tai-du-an-ischoolvietnam-300x207-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuyendung.webtudong8giay.com/wp-content/uploads/2019/12/tuyen-so-luong-lon-content-marketing-lam-viec-tai-du-an-ischoolvietnam.jpg
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-content\uploads\2019\12\tuyen-so-luong-lon-content-marketing-lam-viec-tai-du-an-ischoolvietnam-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuyendung.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-includes\css\classic-themes.min-1.css
+Content Type: text/css
+
+Uri: https://tuyendung.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-includes\css\dashicons.min-2.css
+Content Type: text/css
+
+Uri: https://tuyendung.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-includes\css\dist\block-library\style.min-2.css
+Content Type: text/css
+
+Uri: https://tuyendung.webtudong8giay.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-includes\fonts\dashicons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tuyendung.webtudong8giay.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-includes\fonts\dashicons-1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://tuyendung.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-includes\js\hoverIntent.min-1.js
+Content Type: application/javascript
+
+Uri: https://tuyendung.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min-1.js
+Content Type: application/javascript
+
+Uri: https://tuyendung.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-includes\js\jquery\jquery.min-1.js
+Content Type: application/javascript
+
+Uri: https://tuyendung.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-includes\wlwmanifest-1.xml
+Content Type: application/xml
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\index-1.htm
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-33
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-34
+Content Type: text/xml
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Fbackend-developer%2F
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-51
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Fbackend-developer%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-52
+Content Type: text/xml
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Fban-hang-partime%2F
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-45
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Fban-hang-partime%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-46
+Content Type: text/xml
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Fban-hang-partime-copy%2F
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-43
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Fban-hang-partime-copy%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-44
+Content Type: text/xml
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Fchoi-voi-vi-mat-viec-cuoi-nam%2F
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-65
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Fchoi-voi-vi-mat-viec-cuoi-nam%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-66
+Content Type: text/xml
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Fgioi-thieu%2F
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-35
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Fgioi-thieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-36
+Content Type: text/xml
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-37
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-38
+Content Type: text/xml
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Fnhan-vien-kinh-doanh%2F
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-57
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Fnhan-vien-kinh-doanh%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-58
+Content Type: text/xml
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Fnhan-vien-kinh-doanh-copy%2F
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-55
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Fnhan-vien-kinh-doanh-copy%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-56
+Content Type: text/xml
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Fnhan-vien-tele-marketing%2F
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-53
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Fnhan-vien-tele-marketing%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-54
+Content Type: text/xml
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Fnhan-vien-tu-van-khach-hang%2F
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-47
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Fnhan-vien-tu-van-khach-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-48
+Content Type: text/xml
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Fnhan-vien-tu-van-khach-hang-copy%2F
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-39
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Fnhan-vien-tu-van-khach-hang-copy%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-40
+Content Type: text/xml
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Fquan-ly-vung%2F
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-49
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Fquan-ly-vung%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-50
+Content Type: text/xml
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Fquan-ly-vung-copy%2F
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-41
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Fquan-ly-vung-copy%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-42
+Content Type: text/xml
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Ftuyen-nhan-vien-bao-ve-tai-binh-thanh-cac-ky-nang-nghiep-vu-duoc-dao-tao%2F
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-61
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Ftuyen-nhan-vien-bao-ve-tai-binh-thanh-cac-ky-nang-nghiep-vu-duoc-dao-tao%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-62
+Content Type: text/xml
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Ftuyen-nhan-vien-bao-ve-tai-quan-thu-duc-tim-hieu-ve-nghe-bao-ve%2F
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-59
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Ftuyen-nhan-vien-bao-ve-tai-quan-thu-duc-tim-hieu-ve-nghe-bao-ve%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-60
+Content Type: text/xml
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Fviec-lam-bao-ve-viec-lam-bao-ve-luong-cao-viec-lam-bao-ve-bao-an-o%2F
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-63
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftuyendung.webtudong8giay.com%2Fviec-lam-bao-ve-viec-lam-bao-ve-luong-cao-viec-lam-bao-ve-bao-an-o%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\oembed\1.0\embed-64
+Content Type: text/xml
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\wp\v2\categories\1-1
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/wp/v2/categories/2
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\wp\v2\categories\2-1
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/wp/v2/categories/3
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\wp\v2\categories\3-1
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/wp/v2/categories/6
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\wp\v2\categories\6-1
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/wp/v2/categories/7
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\wp\v2\categories\7-1
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/wp/v2/categories/8
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\wp\v2\categories\8-1
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\wp\v2\pages\2-1
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/wp/v2/pages/45
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\wp\v2\pages\45-1
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/wp/v2/pages/47
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\wp\v2\pages\47-1
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/wp/v2/posts/293
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\wp\v2\posts\293-1
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/wp/v2/posts/297
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\wp\v2\posts\297-1
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/wp/v2/posts/301
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\wp\v2\posts\301-1
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/wp/v2/posts/304
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\wp\v2\posts\304-1
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/wp/v2/posts/518
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\wp\v2\posts\518-1
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/wp/v2/posts/521
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\wp\v2\posts\521-1
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/wp/v2/posts/537
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\wp\v2\posts\537-1
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/wp/v2/posts/539
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\wp\v2\posts\539-1
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/wp/v2/posts/541
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\wp\v2\posts\541-1
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/wp/v2/posts/543
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\wp\v2\posts\543-1
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/wp/v2/posts/545
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\wp\v2\posts\545-1
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/wp/v2/posts/552
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\wp\v2\posts\552-1
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/wp/v2/posts/555
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\wp\v2\posts\555-1
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/wp/v2/posts/559
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\wp\v2\posts\559-1
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\xmlrpc-1.php
+Content Type: text/xml
+
+es\tuyendung.webtudong8giay.com\wp-json\wp\v2\posts\555
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/wp-json/wp/v2/posts/559
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\wp-json\wp\v2\posts\559
+Content Type: application/json
+
+Uri: https://tuyendung.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\tuyendung.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+
